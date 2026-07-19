@@ -1,0 +1,5 @@
+# Bỏ qua tệp tin cài đặt .deb có dung lượng lớn
+*.deb
+
+# Bỏ qua thư mục đóng gói tạm thời
+mesa-custom-driver/
